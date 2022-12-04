@@ -12,6 +12,12 @@
 ![Vuejs](https://img.shields.io/badge/Javascript-Vue.js-brightgreen) 
 ![Flask](https://img.shields.io/badge/Python-Flask-orange)
 
+### 결과화면 
+사용자에게 다음과 같이 전체 분포도와 함께 스토킹 지수를 보여주고, 문항별로 사용자의 정신상태를 분석하여 Bar plot으로 보여줍니다. 마지막으로 모델의 Attention을 음영으로 표시하여 모델이 높은 Attention을 부여한 키워드를 알 수 있도록 플랫폼을 구현하였습니다. 
+<br/>
+<img src="https://user-images.githubusercontent.com/85197186/205471052-82860e9c-b102-4ac8-8d2f-63f50820b54c.JPG">
+<img src="https://user-images.githubusercontent.com/85197186/205471123-7c78c8e7-acf9-4416-9675-d4eda3509258.JPG">
+
 ## 모델링 
 ![pytorch](https://img.shields.io/badge/Python-Pytorch-orange)
 
